@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "София 1",
+    "latitude": 42.6977,
+    "longitude": 23.3219
+  },
+  {
+    "name": "Пловдив 1",
+    "latitude": 42.1354,
+    "longitude": 24.7453
+  },
+  {
+    "name": "Варна 1",
+    "latitude": 43.2141,
+    "longitude": 27.9147
+  },
+  {
+    "name": "Бургас 1",
+    "latitude": 42.5048,
+    "longitude": 27.4626
+  },
+  {
+    "name": "Русе 1",
+    "latitude": 43.8514,
+    "longitude": 25.9746
+  },
+  {
+    "name": "Стара Загора 1",
+    "latitude": 42.4254,
+    "longitude": 25.6345
+  },
+  {
+    "name": "Плевен 1",
+    "latitude": 43.417,
+    "longitude": 24.6065
+  },
+  {
+    "name": "Добрич 1",
+    "latitude": 43.5674,
+    "longitude": 27.8279
+  },
+  {
+    "name": "Шумен 1",
+    "latitude": 43.2715,
+    "longitude": 26.9226
+  },
+  {
+    "name": "Перник 1",
+    "latitude": 42.6064,
+    "longitude": 23.0389
+  },
+  {
+    "name": "София 2",
+    "latitude": 42.707699999999996,
+    "longitude": 23.3319
+  },
+  {
+    "name": "Пловдив 2",
+    "latitude": 42.145399999999995,
+    "longitude": 24.755300000000002
+  },
+  {
+    "name": "Варна 2",
+    "latitude": 43.2241,
+    "longitude": 27.9247
+  },
+  {
+    "name": "Бургас 2",
+    "latitude": 42.5148,
+    "longitude": 27.4726
+  },
+  {
+    "name": "Русе 2",
+    "latitude": 43.861399999999996,
+    "longitude": 25.9846
+  },
+  {
+    "name": "Стара Загора 2",
+    "latitude": 42.4354,
+    "longitude": 25.6445
+  },
+  {
+    "name": "Плевен 2",
+    "latitude": 43.427,
+    "longitude": 24.616500000000002
+  },
+  {
+    "name": "Добрич 2",
+    "latitude": 43.5774,
+    "longitude": 27.8379
+  },
+  {
+    "name": "Шумен 2",
+    "latitude": 43.2815,
+    "longitude": 26.9326
+  },
+  {
+    "name": "Перник 2",
+    "latitude": 42.6164,
+    "longitude": 23.048900000000003
+  },
+  {
+    "name": "София 3",
+    "latitude": 42.7177,
+    "longitude": 23.3419
+  },
+  {
+    "name": "Пловдив 3",
+    "latitude": 42.1554,
+    "longitude": 24.7653
+  },
+  {
+    "name": "Варна 3",
+    "latitude": 43.234100000000005,
+    "longitude": 27.9347
+  },
+  {
+    "name": "Бургас 3",
+    "latitude": 42.524800000000006,
+    "longitude": 27.482599999999998
+  },
+  {
+    "name": "Русе 3",
+    "latitude": 43.8714,
+    "longitude": 25.9946
+  },
+  {
+    "name": "Стара Загора 3",
+    "latitude": 42.44540000000001,
+    "longitude": 25.6545
+  },
+  {
+    "name": "Плевен 3",
+    "latitude": 43.437000000000005,
+    "longitude": 24.6265
+  },
+  {
+    "name": "Добрич 3",
+    "latitude": 43.5874,
+    "longitude": 27.8479
+  },
+  {
+    "name": "Шумен 3",
+    "latitude": 43.291500000000006,
+    "longitude": 26.9426
+  },
+  {
+    "name": "Перник 3",
+    "latitude": 42.626400000000004,
+    "longitude": 23.0589
+  },
+  {
+    "name": "София 4",
+    "latitude": 42.7277,
+    "longitude": 23.3519
+  },
+  {
+    "name": "Пловдив 4",
+    "latitude": 42.1654,
+    "longitude": 24.7753
+  },
+  {
+    "name": "Варна 4",
+    "latitude": 43.2441,
+    "longitude": 27.9447
+  },
+  {
+    "name": "Бургас 4",
+    "latitude": 42.534800000000004,
+    "longitude": 27.4926
+  },
+  {
+    "name": "Русе 4",
+    "latitude": 43.8814,
+    "longitude": 26.0046
+  },
+  {
+    "name": "Стара Загора 4",
+    "latitude": 42.455400000000004,
+    "longitude": 25.6645
+  },
+  {
+    "name": "Плевен 4",
+    "latitude": 43.447,
+    "longitude": 24.6365
+  },
+  {
+    "name": "Добрич 4",
+    "latitude": 43.5974,
+    "longitude": 27.8579
+  },
+  {
+    "name": "Шумен 4",
+    "latitude": 43.301500000000004,
+    "longitude": 26.9526
+  },
+  {
+    "name": "Перник 4",
+    "latitude": 42.6364,
+    "longitude": 23.068900000000003
+  },
+  {
+    "name": "София 5",
+    "latitude": 42.7377,
+    "longitude": 23.3619
+  },
+  {
+    "name": "Пловдив 5",
+    "latitude": 42.175399999999996,
+    "longitude": 24.7853
+  },
+  {
+    "name": "Варна 5",
+    "latitude": 43.2541,
+    "longitude": 27.9547
+  },
+  {
+    "name": "Бургас 5",
+    "latitude": 42.5448,
+    "longitude": 27.502599999999997
+  },
+  {
+    "name": "Русе 5",
+    "latitude": 43.8914,
+    "longitude": 26.014599999999998
+  },
+  {
+    "name": "Стара Загора 5",
+    "latitude": 42.4654,
+    "longitude": 25.6745
+  },
+  {
+    "name": "Плевен 5",
+    "latitude": 43.457,
+    "longitude": 24.6465
+  },
+  {
+    "name": "Добрич 5",
+    "latitude": 43.6074,
+    "longitude": 27.8679
+  },
+  {
+    "name": "Шумен 5",
+    "latitude": 43.3115,
+    "longitude": 26.9626
+  },
+  {
+    "name": "Перник 5",
+    "latitude": 42.6464,
+    "longitude": 23.0789
+  },
+  {
+    "name": "София 6",
+    "latitude": 42.747699999999995,
+    "longitude": 23.3719
+  },
+  {
+    "name": "Пловдив 6",
+    "latitude": 42.185399999999994,
+    "longitude": 24.7953
+  },
+  {
+    "name": "Варна 6",
+    "latitude": 43.2641,
+    "longitude": 27.9647
+  },
+  {
+    "name": "Бургас 6",
+    "latitude": 42.5548,
+    "longitude": 27.5126
+  },
+  {
+    "name": "Русе 6",
+    "latitude": 43.901399999999995,
+    "longitude": 26.0246
+  },
+  {
+    "name": "Стара Загора 6",
+    "latitude": 42.4754,
+    "longitude": 25.6845
+  },
+  {
+    "name": "Плевен 6",
+    "latitude": 43.467,
+    "longitude": 24.6565
+  },
+  {
+    "name": "Добрич 6",
+    "latitude": 43.617399999999996,
+    "longitude": 27.8779
+  },
+  {
+    "name": "Шумен 6",
+    "latitude": 43.3215,
+    "longitude": 26.9726
+  },
+  {
+    "name": "Перник 6",
+    "latitude": 42.6564,
+    "longitude": 23.088900000000002
+  },
+  {
+    "name": "София 7",
+    "latitude": 42.7577,
+    "longitude": 23.381899999999998
+  },
+  {
+    "name": "Пловдив 7",
+    "latitude": 42.1954,
+    "longitude": 24.8053
+  },
+  {
+    "name": "Варна 7",
+    "latitude": 43.274100000000004,
+    "longitude": 27.9747
+  },
+  {
+    "name": "Бургас 7",
+    "latitude": 42.564800000000005,
+    "longitude": 27.522599999999997
+  },
+  {
+    "name": "Русе 7",
+    "latitude": 43.9114,
+    "longitude": 26.034599999999998
+  },
+  {
+    "name": "Стара Загора 7",
+    "latitude": 42.485400000000006,
+    "longitude": 25.694499999999998
+  },
+  {
+    "name": "Плевен 7",
+    "latitude": 43.477000000000004,
+    "longitude": 24.6665
+  },
+  {
+    "name": "Добрич 7",
+    "latitude": 43.6274,
+    "longitude": 27.8879
+  },
+  {
+    "name": "Шумен 7",
+    "latitude": 43.331500000000005,
+    "longitude": 26.982599999999998
+  },
+  {
+    "name": "Перник 7",
+    "latitude": 42.6664,
+    "longitude": 23.0989
+  },
+  {
+    "name": "София 8",
+    "latitude": 42.7677,
+    "longitude": 23.3919
+  },
+  {
+    "name": "Пловдив 8",
+    "latitude": 42.2054,
+    "longitude": 24.8153
+  },
+  {
+    "name": "Варна 8",
+    "latitude": 43.2841,
+    "longitude": 27.9847
+  },
+  {
+    "name": "Бургас 8",
+    "latitude": 42.5748,
+    "longitude": 27.5326
+  },
+  {
+    "name": "Русе 8",
+    "latitude": 43.9214,
+    "longitude": 26.0446
+  },
+  {
+    "name": "Стара Загора 8",
+    "latitude": 42.495400000000004,
+    "longitude": 25.7045
+  },
+  {
+    "name": "Плевен 8",
+    "latitude": 43.487,
+    "longitude": 24.6765
+  },
+  {
+    "name": "Добрич 8",
+    "latitude": 43.6374,
+    "longitude": 27.8979
+  },
+  {
+    "name": "Шумен 8",
+    "latitude": 43.3415,
+    "longitude": 26.9926
+  },
+  {
+    "name": "Перник 8",
+    "latitude": 42.6764,
+    "longitude": 23.108900000000002
+  },
+  {
+    "name": "София 9",
+    "latitude": 42.777699999999996,
+    "longitude": 23.401899999999998
+  },
+  {
+    "name": "Пловдив 9",
+    "latitude": 42.215399999999995,
+    "longitude": 24.8253
+  },
+  {
+    "name": "Варна 9",
+    "latitude": 43.2941,
+    "longitude": 27.994699999999998
+  },
+  {
+    "name": "Бургас 9",
+    "latitude": 42.5848,
+    "longitude": 27.542599999999997
+  },
+  {
+    "name": "Русе 9",
+    "latitude": 43.9314,
+    "longitude": 26.054599999999997
+  },
+  {
+    "name": "Стара Загора 9",
+    "latitude": 42.5054,
+    "longitude": 25.714499999999997
+  },
+  {
+    "name": "Плевен 9",
+    "latitude": 43.497,
+    "longitude": 24.6865
+  },
+  {
+    "name": "Добрич 9",
+    "latitude": 43.6474,
+    "longitude": 27.907899999999998
+  },
+  {
+    "name": "Шумен 9",
+    "latitude": 43.3515,
+    "longitude": 27.002599999999997
+  },
+  {
+    "name": "Перник 9",
+    "latitude": 42.6864,
+    "longitude": 23.1189
+  },
+  {
+    "name": "София 10",
+    "latitude": 42.7877,
+    "longitude": 23.4119
+  },
+  {
+    "name": "Пловдив 10",
+    "latitude": 42.2254,
+    "longitude": 24.8353
+  },
+  {
+    "name": "Варна 10",
+    "latitude": 43.304100000000005,
+    "longitude": 28.0047
+  },
+  {
+    "name": "Бургас 10",
+    "latitude": 42.594800000000006,
+    "longitude": 27.552599999999998
+  },
+  {
+    "name": "Русе 10",
+    "latitude": 43.9414,
+    "longitude": 26.0646
+  },
+  {
+    "name": "Стара Загора 10",
+    "latitude": 42.51540000000001,
+    "longitude": 25.7245
+  },
+  {
+    "name": "Плевен 10",
+    "latitude": 43.507000000000005,
+    "longitude": 24.6965
+  },
+  {
+    "name": "Добрич 10",
+    "latitude": 43.6574,
+    "longitude": 27.9179
+  },
+  {
+    "name": "Шумен 10",
+    "latitude": 43.36150000000001,
+    "longitude": 27.0126
+  },
+  {
+    "name": "Перник 10",
+    "latitude": 42.696400000000004,
+    "longitude": 23.1289
+  },
+  {
+    "name": "София 11",
+    "latitude": 42.7977,
+    "longitude": 23.4219
+  },
+  {
+    "name": "Пловдив 11",
+    "latitude": 42.2354,
+    "longitude": 24.8453
+  },
+  {
+    "name": "Варна 11",
+    "latitude": 43.3141,
+    "longitude": 28.0147
+  },
+  {
+    "name": "Бургас 11",
+    "latitude": 42.604800000000004,
+    "longitude": 27.5626
+  },
+  {
+    "name": "Русе 11",
+    "latitude": 43.9514,
+    "longitude": 26.0746
+  },
+  {
+    "name": "Стара Загора 11",
+    "latitude": 42.525400000000005,
+    "longitude": 25.7345
+  },
+  {
+    "name": "Плевен 11",
+    "latitude": 43.517,
+    "longitude": 24.706500000000002
+  },
+  {
+    "name": "Добрич 11",
+    "latitude": 43.6674,
+    "longitude": 27.9279
+  },
+  {
+    "name": "Шумен 11",
+    "latitude": 43.371500000000005,
+    "longitude": 27.0226
+  },
+  {
+    "name": "Перник 11",
+    "latitude": 42.7064,
+    "longitude": 23.138900000000003
+  },
+  {
+    "name": "София 12",
+    "latitude": 42.8077,
+    "longitude": 23.4319
+  },
+  {
+    "name": "Пловдив 12",
+    "latitude": 42.2454,
+    "longitude": 24.8553
+  },
+  {
+    "name": "Варна 12",
+    "latitude": 43.3241,
+    "longitude": 28.0247
+  },
+  {
+    "name": "Бургас 12",
+    "latitude": 42.6148,
+    "longitude": 27.572599999999998
+  },
+  {
+    "name": "Русе 12",
+    "latitude": 43.9614,
+    "longitude": 26.0846
+  },
+  {
+    "name": "Стара Загора 12",
+    "latitude": 42.5354,
+    "longitude": 25.7445
+  },
+  {
+    "name": "Плевен 12",
+    "latitude": 43.527,
+    "longitude": 24.7165
+  },
+  {
+    "name": "Добрич 12",
+    "latitude": 43.6774,
+    "longitude": 27.9379
+  },
+  {
+    "name": "Шумен 12",
+    "latitude": 43.3815,
+    "longitude": 27.0326
+  },
+  {
+    "name": "Перник 12",
+    "latitude": 42.7164,
+    "longitude": 23.1489
+  },
+  {
+    "name": "София 13",
+    "latitude": 42.817699999999995,
+    "longitude": 23.4419
+  },
+  {
+    "name": "Пловдив 13",
+    "latitude": 42.255399999999995,
+    "longitude": 24.8653
+  },
+  {
+    "name": "Варна 13",
+    "latitude": 43.3341,
+    "longitude": 28.0347
+  },
+  {
+    "name": "Бургас 13",
+    "latitude": 42.6248,
+    "longitude": 27.5826
+  },
+  {
+    "name": "Русе 13",
+    "latitude": 43.971399999999996,
+    "longitude": 26.0946
+  },
+  {
+    "name": "Стара Загора 13",
+    "latitude": 42.5454,
+    "longitude": 25.7545
+  },
+  {
+    "name": "Плевен 13",
+    "latitude": 43.537,
+    "longitude": 24.7265
+  },
+  {
+    "name": "Добрич 13",
+    "latitude": 43.6874,
+    "longitude": 27.9479
+  },
+  {
+    "name": "Шумен 13",
+    "latitude": 43.3915,
+    "longitude": 27.0426
+  },
+  {
+    "name": "Перник 13",
+    "latitude": 42.7264,
+    "longitude": 23.158900000000003
+  },
+  {
+    "name": "София 14",
+    "latitude": 42.8277,
+    "longitude": 23.4519
+  },
+  {
+    "name": "Пловдив 14",
+    "latitude": 42.2654,
+    "longitude": 24.8753
+  },
+  {
+    "name": "Варна 14",
+    "latitude": 43.344100000000005,
+    "longitude": 28.0447
+  },
+  {
+    "name": "Бургас 14",
+    "latitude": 42.634800000000006,
+    "longitude": 27.592599999999997
+  },
+  {
+    "name": "Русе 14",
+    "latitude": 43.9814,
+    "longitude": 26.104599999999998
+  },
+  {
+    "name": "Стара Загора 14",
+    "latitude": 42.555400000000006,
+    "longitude": 25.764499999999998
+  },
+  {
+    "name": "Плевен 14",
+    "latitude": 43.547000000000004,
+    "longitude": 24.7365
+  },
+  {
+    "name": "Добрич 14",
+    "latitude": 43.6974,
+    "longitude": 27.9579
+  },
+  {
+    "name": "Шумен 14",
+    "latitude": 43.401500000000006,
+    "longitude": 27.052599999999998
+  },
+  {
+    "name": "Перник 14",
+    "latitude": 42.7364,
+    "longitude": 23.1689
+  },
+  {
+    "name": "София 15",
+    "latitude": 42.8377,
+    "longitude": 23.4619
+  },
+  {
+    "name": "Пловдив 15",
+    "latitude": 42.2754,
+    "longitude": 24.8853
+  },
+  {
+    "name": "Варна 15",
+    "latitude": 43.3541,
+    "longitude": 28.0547
+  },
+  {
+    "name": "Бургас 15",
+    "latitude": 42.644800000000004,
+    "longitude": 27.6026
+  },
+  {
+    "name": "Русе 15",
+    "latitude": 43.9914,
+    "longitude": 26.1146
+  },
+  {
+    "name": "Стара Загора 15",
+    "latitude": 42.565400000000004,
+    "longitude": 25.7745
+  },
+  {
+    "name": "Плевен 15",
+    "latitude": 43.557,
+    "longitude": 24.7465
+  },
+  {
+    "name": "Добрич 15",
+    "latitude": 43.7074,
+    "longitude": 27.9679
+  },
+  {
+    "name": "Шумен 15",
+    "latitude": 43.411500000000004,
+    "longitude": 27.0626
+  },
+  {
+    "name": "Перник 15",
+    "latitude": 42.7464,
+    "longitude": 23.178900000000002
+  },
+  {
+    "name": "София 16",
+    "latitude": 42.847699999999996,
+    "longitude": 23.471899999999998
+  },
+  {
+    "name": "Пловдив 16",
+    "latitude": 42.285399999999996,
+    "longitude": 24.8953
+  },
+  {
+    "name": "Варна 16",
+    "latitude": 43.3641,
+    "longitude": 28.0647
+  },
+  {
+    "name": "Бургас 16",
+    "latitude": 42.6548,
+    "longitude": 27.612599999999997
+  },
+  {
+    "name": "Русе 16",
+    "latitude": 44.0014,
+    "longitude": 26.124599999999997
+  },
+  {
+    "name": "Стара Загора 16",
+    "latitude": 42.5754,
+    "longitude": 25.784499999999998
+  },
+  {
+    "name": "Плевен 16",
+    "latitude": 43.567,
+    "longitude": 24.7565
+  },
+  {
+    "name": "Добрич 16",
+    "latitude": 43.7174,
+    "longitude": 27.977899999999998
+  },
+  {
+    "name": "Шумен 16",
+    "latitude": 43.4215,
+    "longitude": 27.072599999999998
+  },
+  {
+    "name": "Перник 16",
+    "latitude": 42.7564,
+    "longitude": 23.1889
+  },
+  {
+    "name": "София 17",
+    "latitude": 42.857699999999994,
+    "longitude": 23.4819
+  },
+  {
+    "name": "Пловдив 17",
+    "latitude": 42.295399999999994,
+    "longitude": 24.9053
+  },
+  {
+    "name": "Варна 17",
+    "latitude": 43.3741,
+    "longitude": 28.0747
+  },
+  {
+    "name": "Бургас 17",
+    "latitude": 42.6648,
+    "longitude": 27.6226
+  },
+  {
+    "name": "Русе 17",
+    "latitude": 44.011399999999995,
+    "longitude": 26.1346
+  },
+  {
+    "name": "Стара Загора 17",
+    "latitude": 42.5854,
+    "longitude": 25.7945
+  },
+  {
+    "name": "Плевен 17",
+    "latitude": 43.577,
+    "longitude": 24.7665
+  },
+  {
+    "name": "Добрич 17",
+    "latitude": 43.727399999999996,
+    "longitude": 27.9879
+  },
+  {
+    "name": "Шумен 17",
+    "latitude": 43.4315,
+    "longitude": 27.0826
+  },
+  {
+    "name": "Перник 17",
+    "latitude": 42.7664,
+    "longitude": 23.198900000000002
+  },
+  {
+    "name": "София 18",
+    "latitude": 42.8677,
+    "longitude": 23.4919
+  },
+  {
+    "name": "Пловдив 18",
+    "latitude": 42.3054,
+    "longitude": 24.915300000000002
+  },
+  {
+    "name": "Варна 18",
+    "latitude": 43.384100000000004,
+    "longitude": 28.0847
+  },
+  {
+    "name": "Бургас 18",
+    "latitude": 42.674800000000005,
+    "longitude": 27.6326
+  },
+  {
+    "name": "Русе 18",
+    "latitude": 44.0214,
+    "longitude": 26.1446
+  },
+  {
+    "name": "Стара Загора 18",
+    "latitude": 42.595400000000005,
+    "longitude": 25.8045
+  },
+  {
+    "name": "Плевен 18",
+    "latitude": 43.587,
+    "longitude": 24.776500000000002
+  },
+  {
+    "name": "Добрич 18",
+    "latitude": 43.7374,
+    "longitude": 27.9979
+  },
+  {
+    "name": "Шумен 18",
+    "latitude": 43.441500000000005,
+    "longitude": 27.0926
+  },
+  {
+    "name": "Перник 18",
+    "latitude": 42.7764,
+    "longitude": 23.208900000000003
+  },
+  {
+    "name": "София 19",
+    "latitude": 42.8777,
+    "longitude": 23.5019
+  },
+  {
+    "name": "Пловдив 19",
+    "latitude": 42.3154,
+    "longitude": 24.9253
+  },
+  {
+    "name": "Варна 19",
+    "latitude": 43.3941,
+    "longitude": 28.0947
+  },
+  {
+    "name": "Бургас 19",
+    "latitude": 42.6848,
+    "longitude": 27.642599999999998
+  },
+  {
+    "name": "Русе 19",
+    "latitude": 44.0314,
+    "longitude": 26.1546
+  },
+  {
+    "name": "Стара Загора 19",
+    "latitude": 42.6054,
+    "longitude": 25.8145
+  },
+  {
+    "name": "Плевен 19",
+    "latitude": 43.597,
+    "longitude": 24.7865
+  },
+  {
+    "name": "Добрич 19",
+    "latitude": 43.7474,
+    "longitude": 28.0079
+  },
+  {
+    "name": "Шумен 19",
+    "latitude": 43.4515,
+    "longitude": 27.1026
+  },
+  {
+    "name": "Перник 19",
+    "latitude": 42.7864,
+    "longitude": 23.2189
+  },
+  {
+    "name": "София 20",
+    "latitude": 42.887699999999995,
+    "longitude": 23.5119
+  },
+  {
+    "name": "Пловдив 20",
+    "latitude": 42.325399999999995,
+    "longitude": 24.9353
+  },
+  {
+    "name": "Варна 20",
+    "latitude": 43.4041,
+    "longitude": 28.1047
+  },
+  {
+    "name": "Бургас 20",
+    "latitude": 42.6948,
+    "longitude": 27.6526
+  },
+  {
+    "name": "Русе 20",
+    "latitude": 44.041399999999996,
+    "longitude": 26.1646
+  },
+  {
+    "name": "Стара Загора 20",
+    "latitude": 42.6154,
+    "longitude": 25.8245
+  },
+  {
+    "name": "Плевен 20",
+    "latitude": 43.607,
+    "longitude": 24.7965
+  },
+  {
+    "name": "Добрич 20",
+    "latitude": 43.7574,
+    "longitude": 28.0179
+  },
+  {
+    "name": "Шумен 20",
+    "latitude": 43.4615,
+    "longitude": 27.1126
+  },
+  {
+    "name": "Перник 20",
+    "latitude": 42.7964,
+    "longitude": 23.228900000000003
+  },
+  {
+    "name": "София 21",
+    "latitude": 42.8977,
+    "longitude": 23.5219
+  },
+  {
+    "name": "Пловдив 21",
+    "latitude": 42.3354,
+    "longitude": 24.9453
+  },
+  {
+    "name": "Варна 21",
+    "latitude": 43.414100000000005,
+    "longitude": 28.1147
+  },
+  {
+    "name": "Бургас 21",
+    "latitude": 42.704800000000006,
+    "longitude": 27.662599999999998
+  },
+  {
+    "name": "Русе 21",
+    "latitude": 44.0514,
+    "longitude": 26.174599999999998
+  },
+  {
+    "name": "Стара Загора 21",
+    "latitude": 42.625400000000006,
+    "longitude": 25.8345
+  },
+  {
+    "name": "Плевен 21",
+    "latitude": 43.617000000000004,
+    "longitude": 24.8065
+  },
+  {
+    "name": "Добрич 21",
+    "latitude": 43.7674,
+    "longitude": 28.0279
+  },
+  {
+    "name": "Шумен 21",
+    "latitude": 43.471500000000006,
+    "longitude": 27.1226
+  },
+  {
+    "name": "Перник 21",
+    "latitude": 42.806400000000004,
+    "longitude": 23.2389
+  },
+  {
+    "name": "София 22",
+    "latitude": 42.9077,
+    "longitude": 23.5319
+  },
+  {
+    "name": "Пловдив 22",
+    "latitude": 42.3454,
+    "longitude": 24.9553
+  },
+  {
+    "name": "Варна 22",
+    "latitude": 43.4241,
+    "longitude": 28.1247
+  },
+  {
+    "name": "Бургас 22",
+    "latitude": 42.714800000000004,
+    "longitude": 27.6726
+  },
+  {
+    "name": "Русе 22",
+    "latitude": 44.0614,
+    "longitude": 26.1846
+  },
+  {
+    "name": "Стара Загора 22",
+    "latitude": 42.635400000000004,
+    "longitude": 25.8445
+  },
+  {
+    "name": "Плевен 22",
+    "latitude": 43.627,
+    "longitude": 24.8165
+  },
+  {
+    "name": "Добрич 22",
+    "latitude": 43.7774,
+    "longitude": 28.0379
+  },
+  {
+    "name": "Шумен 22",
+    "latitude": 43.481500000000004,
+    "longitude": 27.1326
+  },
+  {
+    "name": "Перник 22",
+    "latitude": 42.8164,
+    "longitude": 23.248900000000003
+  },
+  {
+    "name": "София 23",
+    "latitude": 42.917699999999996,
+    "longitude": 23.5419
+  },
+  {
+    "name": "Пловдив 23",
+    "latitude": 42.355399999999996,
+    "longitude": 24.9653
+  },
+  {
+    "name": "Варна 23",
+    "latitude": 43.4341,
+    "longitude": 28.1347
+  },
+  {
+    "name": "Бургас 23",
+    "latitude": 42.7248,
+    "longitude": 27.682599999999997
+  },
+  {
+    "name": "Русе 23",
+    "latitude": 44.0714,
+    "longitude": 26.194599999999998
+  },
+  {
+    "name": "Стара Загора 23",
+    "latitude": 42.6454,
+    "longitude": 25.854499999999998
+  },
+  {
+    "name": "Плевен 23",
+    "latitude": 43.637,
+    "longitude": 24.8265
+  },
+  {
+    "name": "Добрич 23",
+    "latitude": 43.7874,
+    "longitude": 28.0479
+  },
+  {
+    "name": "Шумен 23",
+    "latitude": 43.4915,
+    "longitude": 27.142599999999998
+  },
+  {
+    "name": "Перник 23",
+    "latitude": 42.8264,
+    "longitude": 23.2589
+  },
+  {
+    "name": "София 24",
+    "latitude": 42.927699999999994,
+    "longitude": 23.5519
+  },
+  {
+    "name": "Пловдив 24",
+    "latitude": 42.365399999999994,
+    "longitude": 24.9753
+  },
+  {
+    "name": "Варна 24",
+    "latitude": 43.4441,
+    "longitude": 28.1447
+  },
+  {
+    "name": "Бургас 24",
+    "latitude": 42.7348,
+    "longitude": 27.6926
+  },
+  {
+    "name": "Русе 24",
+    "latitude": 44.081399999999995,
+    "longitude": 26.2046
+  },
+  {
+    "name": "Стара Загора 24",
+    "latitude": 42.6554,
+    "longitude": 25.8645
+  },
+  {
+    "name": "Плевен 24",
+    "latitude": 43.647,
+    "longitude": 24.8365
+  },
+  {
+    "name": "Добрич 24",
+    "latitude": 43.797399999999996,
+    "longitude": 28.0579
+  },
+  {
+    "name": "Шумен 24",
+    "latitude": 43.5015,
+    "longitude": 27.1526
+  },
+  {
+    "name": "Перник 24",
+    "latitude": 42.8364,
+    "longitude": 23.268900000000002
+  },
+  {
+    "name": "София 25",
+    "latitude": 42.9377,
+    "longitude": 23.561899999999998
+  },
+  {
+    "name": "Пловдив 25",
+    "latitude": 42.3754,
+    "longitude": 24.9853
+  },
+  {
+    "name": "Варна 25",
+    "latitude": 43.454100000000004,
+    "longitude": 28.1547
+  },
+  {
+    "name": "Бургас 25",
+    "latitude": 42.744800000000005,
+    "longitude": 27.702599999999997
+  },
+  {
+    "name": "Русе 25",
+    "latitude": 44.0914,
+    "longitude": 26.214599999999997
+  },
+  {
+    "name": "Стара Загора 25",
+    "latitude": 42.665400000000005,
+    "longitude": 25.874499999999998
+  },
+  {
+    "name": "Плевен 25",
+    "latitude": 43.657000000000004,
+    "longitude": 24.8465
+  },
+  {
+    "name": "Добрич 25",
+    "latitude": 43.8074,
+    "longitude": 28.067899999999998
+  },
+  {
+    "name": "Шумен 25",
+    "latitude": 43.511500000000005,
+    "longitude": 27.162599999999998
+  },
+  {
+    "name": "Перник 25",
+    "latitude": 42.8464,
+    "longitude": 23.2789
+  },
+  {
+    "name": "София 26",
+    "latitude": 42.9477,
+    "longitude": 23.5719
+  },
+  {
+    "name": "Пловдив 26",
+    "latitude": 42.3854,
+    "longitude": 24.9953
+  },
+  {
+    "name": "Варна 26",
+    "latitude": 43.4641,
+    "longitude": 28.1647
+  },
+  {
+    "name": "Бургас 26",
+    "latitude": 42.7548,
+    "longitude": 27.7126
+  },
+  {
+    "name": "Русе 26",
+    "latitude": 44.1014,
+    "longitude": 26.2246
+  },
+  {
+    "name": "Стара Загора 26",
+    "latitude": 42.6754,
+    "longitude": 25.8845
+  },
+  {
+    "name": "Плевен 26",
+    "latitude": 43.667,
+    "longitude": 24.8565
+  },
+  {
+    "name": "Добрич 26",
+    "latitude": 43.8174,
+    "longitude": 28.0779
+  },
+  {
+    "name": "Шумен 26",
+    "latitude": 43.5215,
+    "longitude": 27.1726
+  },
+  {
+    "name": "Перник 26",
+    "latitude": 42.8564,
+    "longitude": 23.2889
+  },
+  {
+    "name": "София 27",
+    "latitude": 42.957699999999996,
+    "longitude": 23.5819
+  },
+  {
+    "name": "Пловдив 27",
+    "latitude": 42.395399999999995,
+    "longitude": 25.005300000000002
+  },
+  {
+    "name": "Варна 27",
+    "latitude": 43.4741,
+    "longitude": 28.1747
+  },
+  {
+    "name": "Бургас 27",
+    "latitude": 42.7648,
+    "longitude": 27.7226
+  },
+  {
+    "name": "Русе 27",
+    "latitude": 44.111399999999996,
+    "longitude": 26.2346
+  },
+  {
+    "name": "Стара Загора 27",
+    "latitude": 42.6854,
+    "longitude": 25.8945
+  },
+  {
+    "name": "Плевен 27",
+    "latitude": 43.677,
+    "longitude": 24.866500000000002
+  },
+  {
+    "name": "Добрич 27",
+    "latitude": 43.8274,
+    "longitude": 28.0879
+  },
+  {
+    "name": "Шумен 27",
+    "latitude": 43.5315,
+    "longitude": 27.1826
+  },
+  {
+    "name": "Перник 27",
+    "latitude": 42.8664,
+    "longitude": 23.298900000000003
+  },
+  {
+    "name": "София 28",
+    "latitude": 42.9677,
+    "longitude": 23.5919
+  },
+  {
+    "name": "Пловдив 28",
+    "latitude": 42.4054,
+    "longitude": 25.0153
+  },
+  {
+    "name": "Варна 28",
+    "latitude": 43.484100000000005,
+    "longitude": 28.1847
+  },
+  {
+    "name": "Бургас 28",
+    "latitude": 42.774800000000006,
+    "longitude": 27.732599999999998
+  },
+  {
+    "name": "Русе 28",
+    "latitude": 44.1214,
+    "longitude": 26.2446
+  },
+  {
+    "name": "Стара Загора 28",
+    "latitude": 42.69540000000001,
+    "longitude": 25.9045
+  },
+  {
+    "name": "Плевен 28",
+    "latitude": 43.687000000000005,
+    "longitude": 24.8765
+  },
+  {
+    "name": "Добрич 28",
+    "latitude": 43.8374,
+    "longitude": 28.0979
+  },
+  {
+    "name": "Шумен 28",
+    "latitude": 43.541500000000006,
+    "longitude": 27.1926
+  },
+  {
+    "name": "Перник 28",
+    "latitude": 42.876400000000004,
+    "longitude": 23.3089
+  },
+  {
+    "name": "София 29",
+    "latitude": 42.9777,
+    "longitude": 23.6019
+  },
+  {
+    "name": "Пловдив 29",
+    "latitude": 42.4154,
+    "longitude": 25.0253
+  },
+  {
+    "name": "Варна 29",
+    "latitude": 43.4941,
+    "longitude": 28.1947
+  },
+  {
+    "name": "Бургас 29",
+    "latitude": 42.784800000000004,
+    "longitude": 27.7426
+  },
+  {
+    "name": "Русе 29",
+    "latitude": 44.1314,
+    "longitude": 26.2546
+  },
+  {
+    "name": "Стара Загора 29",
+    "latitude": 42.705400000000004,
+    "longitude": 25.9145
+  },
+  {
+    "name": "Плевен 29",
+    "latitude": 43.697,
+    "longitude": 24.8865
+  },
+  {
+    "name": "Добрич 29",
+    "latitude": 43.8474,
+    "longitude": 28.1079
+  },
+  {
+    "name": "Шумен 29",
+    "latitude": 43.551500000000004,
+    "longitude": 27.2026
+  },
+  {
+    "name": "Перник 29",
+    "latitude": 42.8864,
+    "longitude": 23.318900000000003
+  },
+  {
+    "name": "София 30",
+    "latitude": 42.9877,
+    "longitude": 23.6119
+  },
+  {
+    "name": "Пловдив 30",
+    "latitude": 42.425399999999996,
+    "longitude": 25.0353
+  },
+  {
+    "name": "Варна 30",
+    "latitude": 43.5041,
+    "longitude": 28.2047
+  },
+  {
+    "name": "Бургас 30",
+    "latitude": 42.7948,
+    "longitude": 27.752599999999997
+  },
+  {
+    "name": "Русе 30",
+    "latitude": 44.1414,
+    "longitude": 26.264599999999998
+  },
+  {
+    "name": "Стара Загора 30",
+    "latitude": 42.7154,
+    "longitude": 25.9245
+  },
+  {
+    "name": "Плевен 30",
+    "latitude": 43.707,
+    "longitude": 24.8965
+  },
+  {
+    "name": "Добрич 30",
+    "latitude": 43.8574,
+    "longitude": 28.1179
+  },
+  {
+    "name": "Шумен 30",
+    "latitude": 43.5615,
+    "longitude": 27.2126
+  },
+  {
+    "name": "Перник 30",
+    "latitude": 42.8964,
+    "longitude": 23.3289
+  },
+  {
+    "name": "София 31",
+    "latitude": 42.997699999999995,
+    "longitude": 23.6219
+  },
+  {
+    "name": "Пловдив 31",
+    "latitude": 42.435399999999994,
+    "longitude": 25.0453
+  },
+  {
+    "name": "Варна 31",
+    "latitude": 43.5141,
+    "longitude": 28.2147
+  },
+  {
+    "name": "Бургас 31",
+    "latitude": 42.8048,
+    "longitude": 27.7626
+  },
+  {
+    "name": "Русе 31",
+    "latitude": 44.151399999999995,
+    "longitude": 26.2746
+  },
+  {
+    "name": "Стара Загора 31",
+    "latitude": 42.7254,
+    "longitude": 25.9345
+  },
+  {
+    "name": "Плевен 31",
+    "latitude": 43.717,
+    "longitude": 24.9065
+  },
+  {
+    "name": "Добрич 31",
+    "latitude": 43.867399999999996,
+    "longitude": 28.1279
+  },
+  {
+    "name": "Шумен 31",
+    "latitude": 43.5715,
+    "longitude": 27.2226
+  },
+  {
+    "name": "Перник 31",
+    "latitude": 42.9064,
+    "longitude": 23.338900000000002
+  },
+  {
+    "name": "София 32",
+    "latitude": 43.0077,
+    "longitude": 23.631899999999998
+  },
+  {
+    "name": "Пловдив 32",
+    "latitude": 42.4454,
+    "longitude": 25.0553
+  },
+  {
+    "name": "Варна 32",
+    "latitude": 43.524100000000004,
+    "longitude": 28.2247
+  },
+  {
+    "name": "Бургас 32",
+    "latitude": 42.814800000000005,
+    "longitude": 27.772599999999997
+  },
+  {
+    "name": "Русе 32",
+    "latitude": 44.1614,
+    "longitude": 26.284599999999998
+  },
+  {
+    "name": "Стара Загора 32",
+    "latitude": 42.735400000000006,
+    "longitude": 25.944499999999998
+  },
+  {
+    "name": "Плевен 32",
+    "latitude": 43.727000000000004,
+    "longitude": 24.9165
+  },
+  {
+    "name": "Добрич 32",
+    "latitude": 43.8774,
+    "longitude": 28.1379
+  },
+  {
+    "name": "Шумен 32",
+    "latitude": 43.581500000000005,
+    "longitude": 27.232599999999998
+  },
+  {
+    "name": "Перник 32",
+    "latitude": 42.9164,
+    "longitude": 23.3489
+  },
+  {
+    "name": "София 33",
+    "latitude": 43.0177,
+    "longitude": 23.6419
+  },
+  {
+    "name": "Пловдив 33",
+    "latitude": 42.4554,
+    "longitude": 25.0653
+  },
+  {
+    "name": "Варна 33",
+    "latitude": 43.5341,
+    "longitude": 28.2347
+  },
+  {
+    "name": "Бургас 33",
+    "latitude": 42.8248,
+    "longitude": 27.7826
+  },
+  {
+    "name": "Русе 33",
+    "latitude": 44.1714,
+    "longitude": 26.2946
+  },
+  {
+    "name": "Стара Загора 33",
+    "latitude": 42.745400000000004,
+    "longitude": 25.9545
+  },
+  {
+    "name": "Плевен 33",
+    "latitude": 43.737,
+    "longitude": 24.9265
+  },
+  {
+    "name": "Добрич 33",
+    "latitude": 43.8874,
+    "longitude": 28.1479
+  },
+  {
+    "name": "Шумен 33",
+    "latitude": 43.5915,
+    "longitude": 27.2426
+  },
+  {
+    "name": "Перник 33",
+    "latitude": 42.9264,
+    "longitude": 23.358900000000002
+  },
+  {
+    "name": "София 34",
+    "latitude": 43.027699999999996,
+    "longitude": 23.651899999999998
+  },
+  {
+    "name": "Пловдив 34",
+    "latitude": 42.465399999999995,
+    "longitude": 25.0753
+  },
+  {
+    "name": "Варна 34",
+    "latitude": 43.5441,
+    "longitude": 28.244699999999998
+  },
+  {
+    "name": "Бургас 34",
+    "latitude": 42.8348,
+    "longitude": 27.792599999999997
+  },
+  {
+    "name": "Русе 34",
+    "latitude": 44.1814,
+    "longitude": 26.304599999999997
+  },
+  {
+    "name": "Стара Загора 34",
+    "latitude": 42.7554,
+    "longitude": 25.964499999999997
+  },
+  {
+    "name": "Плевен 34",
+    "latitude": 43.747,
+    "longitude": 24.9365
+  },
+  {
+    "name": "Добрич 34",
+    "latitude": 43.8974,
+    "longitude": 28.157899999999998
+  },
+  {
+    "name": "Шумен 34",
+    "latitude": 43.6015,
+    "longitude": 27.252599999999997
+  },
+  {
+    "name": "Перник 34",
+    "latitude": 42.9364,
+    "longitude": 23.3689
+  },
+  {
+    "name": "София 35",
+    "latitude": 43.0377,
+    "longitude": 23.6619
+  },
+  {
+    "name": "Пловдив 35",
+    "latitude": 42.4754,
+    "longitude": 25.0853
+  },
+  {
+    "name": "Варна 35",
+    "latitude": 43.554100000000005,
+    "longitude": 28.2547
+  },
+  {
+    "name": "Бургас 35",
+    "latitude": 42.844800000000006,
+    "longitude": 27.802599999999998
+  },
+  {
+    "name": "Русе 35",
+    "latitude": 44.1914,
+    "longitude": 26.3146
+  },
+  {
+    "name": "Стара Загора 35",
+    "latitude": 42.76540000000001,
+    "longitude": 25.9745
+  },
+  {
+    "name": "Плевен 35",
+    "latitude": 43.757000000000005,
+    "longitude": 24.9465
+  },
+  {
+    "name": "Добрич 35",
+    "latitude": 43.9074,
+    "longitude": 28.1679
+  },
+  {
+    "name": "Шумен 35",
+    "latitude": 43.61150000000001,
+    "longitude": 27.2626
+  },
+  {
+    "name": "Перник 35",
+    "latitude": 42.946400000000004,
+    "longitude": 23.3789
+  },
+  {
+    "name": "София 36",
+    "latitude": 43.0477,
+    "longitude": 23.6719
+  },
+  {
+    "name": "Пловдив 36",
+    "latitude": 42.4854,
+    "longitude": 25.0953
+  },
+  {
+    "name": "Варна 36",
+    "latitude": 43.5641,
+    "longitude": 28.2647
+  },
+  {
+    "name": "Бургас 36",
+    "latitude": 42.854800000000004,
+    "longitude": 27.8126
+  },
+  {
+    "name": "Русе 36",
+    "latitude": 44.2014,
+    "longitude": 26.3246
+  },
+  {
+    "name": "Стара Загора 36",
+    "latitude": 42.775400000000005,
+    "longitude": 25.9845
+  },
+  {
+    "name": "Плевен 36",
+    "latitude": 43.767,
+    "longitude": 24.956500000000002
+  },
+  {
+    "name": "Добрич 36",
+    "latitude": 43.9174,
+    "longitude": 28.1779
+  },
+  {
+    "name": "Шумен 36",
+    "latitude": 43.621500000000005,
+    "longitude": 27.2726
+  },
+  {
+    "name": "Перник 36",
+    "latitude": 42.9564,
+    "longitude": 23.388900000000003
+  },
+  {
+    "name": "София 37",
+    "latitude": 43.0577,
+    "longitude": 23.6819
+  },
+  {
+    "name": "Пловдив 37",
+    "latitude": 42.4954,
+    "longitude": 25.1053
+  },
+  {
+    "name": "Варна 37",
+    "latitude": 43.5741,
+    "longitude": 28.2747
+  },
+  {
+    "name": "Бургас 37",
+    "latitude": 42.8648,
+    "longitude": 27.822599999999998
+  },
+  {
+    "name": "Русе 37",
+    "latitude": 44.2114,
+    "longitude": 26.3346
+  },
+  {
+    "name": "Стара Загора 37",
+    "latitude": 42.7854,
+    "longitude": 25.9945
+  },
+  {
+    "name": "Плевен 37",
+    "latitude": 43.777,
+    "longitude": 24.9665
+  },
+  {
+    "name": "Добрич 37",
+    "latitude": 43.9274,
+    "longitude": 28.1879
+  },
+  {
+    "name": "Шумен 37",
+    "latitude": 43.6315,
+    "longitude": 27.2826
+  },
+  {
+    "name": "Перник 37",
+    "latitude": 42.9664,
+    "longitude": 23.3989
+  },
+  {
+    "name": "София 38",
+    "latitude": 43.067699999999995,
+    "longitude": 23.6919
+  },
+  {
+    "name": "Пловдив 38",
+    "latitude": 42.505399999999995,
+    "longitude": 25.1153
+  },
+  {
+    "name": "Варна 38",
+    "latitude": 43.5841,
+    "longitude": 28.2847
+  },
+  {
+    "name": "Бургас 38",
+    "latitude": 42.8748,
+    "longitude": 27.8326
+  },
+  {
+    "name": "Русе 38",
+    "latitude": 44.221399999999996,
+    "longitude": 26.3446
+  },
+  {
+    "name": "Стара Загора 38",
+    "latitude": 42.7954,
+    "longitude": 26.0045
+  },
+  {
+    "name": "Плевен 38",
+    "latitude": 43.787,
+    "longitude": 24.9765
+  },
+  {
+    "name": "Добрич 38",
+    "latitude": 43.9374,
+    "longitude": 28.1979
+  },
+  {
+    "name": "Шумен 38",
+    "latitude": 43.6415,
+    "longitude": 27.2926
+  },
+  {
+    "name": "Перник 38",
+    "latitude": 42.9764,
+    "longitude": 23.408900000000003
+  },
+  {
+    "name": "София 39",
+    "latitude": 43.0777,
+    "longitude": 23.7019
+  },
+  {
+    "name": "Пловдив 39",
+    "latitude": 42.5154,
+    "longitude": 25.1253
+  },
+  {
+    "name": "Варна 39",
+    "latitude": 43.594100000000005,
+    "longitude": 28.2947
+  },
+  {
+    "name": "Бургас 39",
+    "latitude": 42.884800000000006,
+    "longitude": 27.842599999999997
+  },
+  {
+    "name": "Русе 39",
+    "latitude": 44.2314,
+    "longitude": 26.354599999999998
+  },
+  {
+    "name": "Стара Загора 39",
+    "latitude": 42.805400000000006,
+    "longitude": 26.014499999999998
+  },
+  {
+    "name": "Плевен 39",
+    "latitude": 43.797000000000004,
+    "longitude": 24.9865
+  },
+  {
+    "name": "Добрич 39",
+    "latitude": 43.9474,
+    "longitude": 28.2079
+  },
+  {
+    "name": "Шумен 39",
+    "latitude": 43.651500000000006,
+    "longitude": 27.302599999999998
+  },
+  {
+    "name": "Перник 39",
+    "latitude": 42.9864,
+    "longitude": 23.4189
+  },
+  {
+    "name": "София 40",
+    "latitude": 43.0877,
+    "longitude": 23.7119
+  },
+  {
+    "name": "Пловдив 40",
+    "latitude": 42.5254,
+    "longitude": 25.1353
+  },
+  {
+    "name": "Варна 40",
+    "latitude": 43.6041,
+    "longitude": 28.3047
+  },
+  {
+    "name": "Бургас 40",
+    "latitude": 42.894800000000004,
+    "longitude": 27.8526
+  },
+  {
+    "name": "Русе 40",
+    "latitude": 44.2414,
+    "longitude": 26.3646
+  },
+  {
+    "name": "Стара Загора 40",
+    "latitude": 42.815400000000004,
+    "longitude": 26.0245
+  },
+  {
+    "name": "Плевен 40",
+    "latitude": 43.807,
+    "longitude": 24.9965
+  },
+  {
+    "name": "Добрич 40",
+    "latitude": 43.9574,
+    "longitude": 28.2179
+  },
+  {
+    "name": "Шумен 40",
+    "latitude": 43.661500000000004,
+    "longitude": 27.3126
+  },
+  {
+    "name": "Перник 40",
+    "latitude": 42.9964,
+    "longitude": 23.428900000000002
+  },
+  {
+    "name": "София 41",
+    "latitude": 43.097699999999996,
+    "longitude": 23.721899999999998
+  },
+  {
+    "name": "Пловдив 41",
+    "latitude": 42.535399999999996,
+    "longitude": 25.1453
+  },
+  {
+    "name": "Варна 41",
+    "latitude": 43.6141,
+    "longitude": 28.3147
+  },
+  {
+    "name": "Бургас 41",
+    "latitude": 42.9048,
+    "longitude": 27.862599999999997
+  },
+  {
+    "name": "Русе 41",
+    "latitude": 44.2514,
+    "longitude": 26.374599999999997
+  },
+  {
+    "name": "Стара Загора 41",
+    "latitude": 42.8254,
+    "longitude": 26.034499999999998
+  },
+  {
+    "name": "Плевен 41",
+    "latitude": 43.817,
+    "longitude": 25.0065
+  },
+  {
+    "name": "Добрич 41",
+    "latitude": 43.9674,
+    "longitude": 28.227899999999998
+  },
+  {
+    "name": "Шумен 41",
+    "latitude": 43.6715,
+    "longitude": 27.322599999999998
+  },
+  {
+    "name": "Перник 41",
+    "latitude": 43.0064,
+    "longitude": 23.4389
+  },
+  {
+    "name": "София 42",
+    "latitude": 43.107699999999994,
+    "longitude": 23.7319
+  },
+  {
+    "name": "Пловдив 42",
+    "latitude": 42.545399999999994,
+    "longitude": 25.1553
+  },
+  {
+    "name": "Варна 42",
+    "latitude": 43.6241,
+    "longitude": 28.3247
+  },
+  {
+    "name": "Бургас 42",
+    "latitude": 42.9148,
+    "longitude": 27.8726
+  },
+  {
+    "name": "Русе 42",
+    "latitude": 44.261399999999995,
+    "longitude": 26.3846
+  },
+  {
+    "name": "Стара Загора 42",
+    "latitude": 42.8354,
+    "longitude": 26.0445
+  },
+  {
+    "name": "Плевен 42",
+    "latitude": 43.827,
+    "longitude": 25.0165
+  },
+  {
+    "name": "Добрич 42",
+    "latitude": 43.977399999999996,
+    "longitude": 28.2379
+  },
+  {
+    "name": "Шумен 42",
+    "latitude": 43.6815,
+    "longitude": 27.3326
+  },
+  {
+    "name": "Перник 42",
+    "latitude": 43.0164,
+    "longitude": 23.448900000000002
+  },
+  {
+    "name": "София 43",
+    "latitude": 43.1177,
+    "longitude": 23.7419
+  },
+  {
+    "name": "Пловдив 43",
+    "latitude": 42.5554,
+    "longitude": 25.165300000000002
+  },
+  {
+    "name": "Варна 43",
+    "latitude": 43.634100000000004,
+    "longitude": 28.3347
+  },
+  {
+    "name": "Бургас 43",
+    "latitude": 42.924800000000005,
+    "longitude": 27.8826
+  },
+  {
+    "name": "Русе 43",
+    "latitude": 44.2714,
+    "longitude": 26.3946
+  },
+  {
+    "name": "Стара Загора 43",
+    "latitude": 42.845400000000005,
+    "longitude": 26.0545
+  },
+  {
+    "name": "Плевен 43",
+    "latitude": 43.837,
+    "longitude": 25.026500000000002
+  },
+  {
+    "name": "Добрич 43",
+    "latitude": 43.9874,
+    "longitude": 28.2479
+  },
+  {
+    "name": "Шумен 43",
+    "latitude": 43.691500000000005,
+    "longitude": 27.3426
+  },
+  {
+    "name": "Перник 43",
+    "latitude": 43.0264,
+    "longitude": 23.458900000000003
+  },
+  {
+    "name": "София 44",
+    "latitude": 43.1277,
+    "longitude": 23.7519
+  },
+  {
+    "name": "Пловдив 44",
+    "latitude": 42.5654,
+    "longitude": 25.1753
+  },
+  {
+    "name": "Варна 44",
+    "latitude": 43.6441,
+    "longitude": 28.3447
+  },
+  {
+    "name": "Бургас 44",
+    "latitude": 42.9348,
+    "longitude": 27.892599999999998
+  },
+  {
+    "name": "Русе 44",
+    "latitude": 44.2814,
+    "longitude": 26.4046
+  },
+  {
+    "name": "Стара Загора 44",
+    "latitude": 42.8554,
+    "longitude": 26.0645
+  },
+  {
+    "name": "Плевен 44",
+    "latitude": 43.847,
+    "longitude": 25.0365
+  },
+  {
+    "name": "Добрич 44",
+    "latitude": 43.9974,
+    "longitude": 28.2579
+  },
+  {
+    "name": "Шумен 44",
+    "latitude": 43.7015,
+    "longitude": 27.3526
+  },
+  {
+    "name": "Перник 44",
+    "latitude": 43.0364,
+    "longitude": 23.4689
+  },
+  {
+    "name": "София 45",
+    "latitude": 43.137699999999995,
+    "longitude": 23.7619
+  },
+  {
+    "name": "Пловдив 45",
+    "latitude": 42.575399999999995,
+    "longitude": 25.1853
+  },
+  {
+    "name": "Варна 45",
+    "latitude": 43.6541,
+    "longitude": 28.3547
+  },
+  {
+    "name": "Бургас 45",
+    "latitude": 42.9448,
+    "longitude": 27.9026
+  },
+  {
+    "name": "Русе 45",
+    "latitude": 44.291399999999996,
+    "longitude": 26.4146
+  },
+  {
+    "name": "Стара Загора 45",
+    "latitude": 42.8654,
+    "longitude": 26.0745
+  },
+  {
+    "name": "Плевен 45",
+    "latitude": 43.857,
+    "longitude": 25.0465
+  },
+  {
+    "name": "Добрич 45",
+    "latitude": 44.0074,
+    "longitude": 28.2679
+  },
+  {
+    "name": "Шумен 45",
+    "latitude": 43.7115,
+    "longitude": 27.3626
+  },
+  {
+    "name": "Перник 45",
+    "latitude": 43.0464,
+    "longitude": 23.478900000000003
+  },
+  {
+    "name": "София 46",
+    "latitude": 43.1477,
+    "longitude": 23.7719
+  },
+  {
+    "name": "Пловдив 46",
+    "latitude": 42.5854,
+    "longitude": 25.1953
+  },
+  {
+    "name": "Варна 46",
+    "latitude": 43.664100000000005,
+    "longitude": 28.3647
+  },
+  {
+    "name": "Бургас 46",
+    "latitude": 42.954800000000006,
+    "longitude": 27.912599999999998
+  },
+  {
+    "name": "Русе 46",
+    "latitude": 44.3014,
+    "longitude": 26.424599999999998
+  },
+  {
+    "name": "Стара Загора 46",
+    "latitude": 42.875400000000006,
+    "longitude": 26.0845
+  },
+  {
+    "name": "Плевен 46",
+    "latitude": 43.867000000000004,
+    "longitude": 25.0565
+  },
+  {
+    "name": "Добрич 46",
+    "latitude": 44.0174,
+    "longitude": 28.2779
+  },
+  {
+    "name": "Шумен 46",
+    "latitude": 43.721500000000006,
+    "longitude": 27.3726
+  },
+  {
+    "name": "Перник 46",
+    "latitude": 43.056400000000004,
+    "longitude": 23.4889
+  },
+  {
+    "name": "София 47",
+    "latitude": 43.1577,
+    "longitude": 23.7819
+  },
+  {
+    "name": "Пловдив 47",
+    "latitude": 42.5954,
+    "longitude": 25.2053
+  },
+  {
+    "name": "Варна 47",
+    "latitude": 43.6741,
+    "longitude": 28.3747
+  },
+  {
+    "name": "Бургас 47",
+    "latitude": 42.964800000000004,
+    "longitude": 27.9226
+  },
+  {
+    "name": "Русе 47",
+    "latitude": 44.3114,
+    "longitude": 26.4346
+  },
+  {
+    "name": "Стара Загора 47",
+    "latitude": 42.885400000000004,
+    "longitude": 26.0945
+  },
+  {
+    "name": "Плевен 47",
+    "latitude": 43.877,
+    "longitude": 25.0665
+  },
+  {
+    "name": "Добрич 47",
+    "latitude": 44.0274,
+    "longitude": 28.2879
+  },
+  {
+    "name": "Шумен 47",
+    "latitude": 43.731500000000004,
+    "longitude": 27.3826
+  },
+  {
+    "name": "Перник 47",
+    "latitude": 43.0664,
+    "longitude": 23.498900000000003
+  },
+  {
+    "name": "София 48",
+    "latitude": 43.167699999999996,
+    "longitude": 23.7919
+  },
+  {
+    "name": "Пловдив 48",
+    "latitude": 42.605399999999996,
+    "longitude": 25.2153
+  },
+  {
+    "name": "Варна 48",
+    "latitude": 43.6841,
+    "longitude": 28.3847
+  },
+  {
+    "name": "Бургас 48",
+    "latitude": 42.9748,
+    "longitude": 27.932599999999997
+  },
+  {
+    "name": "Русе 48",
+    "latitude": 44.3214,
+    "longitude": 26.444599999999998
+  },
+  {
+    "name": "Стара Загора 48",
+    "latitude": 42.8954,
+    "longitude": 26.104499999999998
+  },
+  {
+    "name": "Плевен 48",
+    "latitude": 43.887,
+    "longitude": 25.0765
+  },
+  {
+    "name": "Добрич 48",
+    "latitude": 44.0374,
+    "longitude": 28.2979
+  },
+  {
+    "name": "Шумен 48",
+    "latitude": 43.7415,
+    "longitude": 27.392599999999998
+  },
+  {
+    "name": "Перник 48",
+    "latitude": 43.0764,
+    "longitude": 23.5089
+  },
+  {
+    "name": "София 49",
+    "latitude": 43.177699999999994,
+    "longitude": 23.8019
+  },
+  {
+    "name": "Пловдив 49",
+    "latitude": 42.615399999999994,
+    "longitude": 25.2253
+  },
+  {
+    "name": "Варна 49",
+    "latitude": 43.6941,
+    "longitude": 28.3947
+  },
+  {
+    "name": "Бургас 49",
+    "latitude": 42.9848,
+    "longitude": 27.9426
+  },
+  {
+    "name": "Русе 49",
+    "latitude": 44.331399999999995,
+    "longitude": 26.4546
+  },
+  {
+    "name": "Стара Загора 49",
+    "latitude": 42.9054,
+    "longitude": 26.1145
+  },
+  {
+    "name": "Плевен 49",
+    "latitude": 43.897,
+    "longitude": 25.0865
+  },
+  {
+    "name": "Добрич 49",
+    "latitude": 44.047399999999996,
+    "longitude": 28.3079
+  },
+  {
+    "name": "Шумен 49",
+    "latitude": 43.7515,
+    "longitude": 27.4026
+  },
+  {
+    "name": "Перник 49",
+    "latitude": 43.0864,
+    "longitude": 23.518900000000002
+  },
+  {
+    "name": "София 50",
+    "latitude": 43.1877,
+    "longitude": 23.811899999999998
+  },
+  {
+    "name": "Пловдив 50",
+    "latitude": 42.6254,
+    "longitude": 25.2353
+  },
+  {
+    "name": "Варна 50",
+    "latitude": 43.704100000000004,
+    "longitude": 28.4047
+  },
+  {
+    "name": "Бургас 50",
+    "latitude": 42.994800000000005,
+    "longitude": 27.952599999999997
+  },
+  {
+    "name": "Русе 50",
+    "latitude": 44.3414,
+    "longitude": 26.464599999999997
+  },
+  {
+    "name": "Стара Загора 50",
+    "latitude": 42.915400000000005,
+    "longitude": 26.124499999999998
+  },
+  {
+    "name": "Плевен 50",
+    "latitude": 43.907000000000004,
+    "longitude": 25.0965
+  },
+  {
+    "name": "Добрич 50",
+    "latitude": 44.0574,
+    "longitude": 28.317899999999998
+  },
+  {
+    "name": "Шумен 50",
+    "latitude": 43.761500000000005,
+    "longitude": 27.412599999999998
+  },
+  {
+    "name": "Перник 50",
+    "latitude": 43.0964,
+    "longitude": 23.5289
+  }
+]
