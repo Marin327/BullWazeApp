@@ -9,6 +9,8 @@ import {
   KeyboardAvoidingView,
   Text,
   ScrollView,
+  TouchableOpacity,
+  Modal,
 } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import MapViewDirections from 'react-native-maps-directions';
@@ -34,9 +36,11 @@ export default function NavigateScreen() {
   const [destinationCoords, setDestinationCoords] = useState<{ latitude: number; longitude: number } | null>(null);
   const [currentLocation, setCurrentLocation] = useState<{ latitude: number; longitude: number } | null>(null);
 
+  // За показване на модал с регистрация
+  const [modalVisible, setModalVisible] = useState(false);
+
   const mapRef = useRef<MapView>(null);
 
-  // Вземи текуща локация при старт
   useEffect(() => {
     (async () => {
       const { status } = await Location.requestForegroundPermissionsAsync();
@@ -49,16 +53,22 @@ export default function NavigateScreen() {
     })();
   }, []);
 
-  // Функция за регистрация
   const handleRegister = () => {
     if (!name.trim() || !email.trim() || !phone.trim()) {
       Alert.alert('Грешка', 'Моля, попълнете всички полета');
       return;
     }
     setRegisteredUser({ name, email, phone });
+    setModalVisible(false);
   };
 
-  // Търсене на дестинация и анимиране
+  const handleLogout = () => {
+    setRegisteredUser(null);
+    setName('');
+    setEmail('');
+    setPhone('');
+  };
+
   const searchDestination = async () => {
     const trimmedDest = destination.trim();
     if (!trimmedDest) {
@@ -66,16 +76,14 @@ export default function NavigateScreen() {
       return;
     }
 
-    // Локално търсене в JSON
-   const place = places.find(p =>
-  p.name.toLowerCase().includes(trimmedDest.toLowerCase())
-);
+    const place = places.find(p =>
+      p.name.toLowerCase().includes(trimmedDest.toLowerCase())
+    );
 
     if (place) {
       setDestinationCoords({ latitude: place.latitude, longitude: place.longitude });
       animateMapTo(place.latitude, place.longitude);
     } else {
-      // Търсене в Google с твоя API ключ
       try {
         const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(trimmedDest)}&region=bg&language=bg&key=${GOOGLE_MAPS_API_KEY}`;
         const response = await fetch(url);
@@ -94,7 +102,6 @@ export default function NavigateScreen() {
     }
   };
 
-  // Анимиране на картата към координатите
   const animateMapTo = (latitude: number, longitude: number) => {
     mapRef.current?.animateToRegion(
       {
@@ -107,7 +114,6 @@ export default function NavigateScreen() {
     );
   };
 
-  // Започване на пътуването
   const startTravel = () => {
     if (!currentLocation || !destinationCoords) {
       Alert.alert('Внимание', 'Трябва да зададете дестинация и да имате локация');
@@ -121,55 +127,32 @@ export default function NavigateScreen() {
     );
   };
 
-  if (!registeredUser) {
-    // Форма за регистрация
-    return (
-      <KeyboardAvoidingView
-        behavior={Platform.OS === 'ios' ? 'padding' : undefined}
-        style={styles.container}
-      >
-        <ScrollView contentContainerStyle={styles.registerContainer}>
-          <Text style={styles.title}>Регистрация</Text>
-          <TextInput
-            placeholder="Име"
-            style={styles.input}
-            value={name}
-            onChangeText={setName}
-            autoCapitalize="words"
-            keyboardType="default"
-          />
-          <TextInput
-            placeholder="Email"
-            style={styles.input}
-            value={email}
-            onChangeText={setEmail}
-            keyboardType="email-address"
-            autoCapitalize="none"
-          />
-          <TextInput
-            placeholder="Телефон"
-            style={styles.input}
-            value={phone}
-            onChangeText={setPhone}
-            keyboardType="phone-pad"
-          />
-          <Button title="Регистрирай се" onPress={handleRegister} />
-        </ScrollView>
-      </KeyboardAvoidingView>
-    );
-  }
-
-  // След регистрация показваш полета за дестинация + карта
   return (
     <KeyboardAvoidingView
       style={styles.container}
       behavior={Platform.OS === 'ios' ? 'padding' : undefined}
     >
-      <View style={styles.profileContainer}>
-        <Text style={styles.welcomeText}>Здравей, {registeredUser.name}!</Text>
-        <Text>Email: {registeredUser.email}</Text>
-        <Text>Телефон: {registeredUser.phone}</Text>
+      {/* Хедър с бутон Вход/Изход */}
+      <View style={styles.header}>
+        {!registeredUser ? (
+          <TouchableOpacity onPress={() => setModalVisible(true)} style={styles.loginButton}>
+            <Text style={styles.loginButtonText}>Вход</Text>
+          </TouchableOpacity>
+        ) : (
+          <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
+            <Text style={styles.logoutButtonText}>Изход</Text>
+          </TouchableOpacity>
+        )}
       </View>
+
+      {/* Ако е регистриран - показва профил */}
+      {registeredUser && (
+        <View style={styles.profileContainer}>
+          <Text style={styles.welcomeText}>Здравей, {registeredUser.name}!</Text>
+          <Text>Email: {registeredUser.email}</Text>
+          <Text>Телефон: {registeredUser.phone}</Text>
+        </View>
+      )}
 
       <View style={styles.searchContainer}>
         <TextInput
@@ -228,40 +211,78 @@ export default function NavigateScreen() {
       <View style={styles.startButtonContainer}>
         <Button title="Започни пътуването" onPress={startTravel} />
       </View>
+
+      {/* Модален прозорец за регистрация */}
+      <Modal visible={modalVisible} animationType="slide" transparent>
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <ScrollView contentContainerStyle={styles.registerContainer}>
+              <Text style={styles.title}>Регистрация</Text>
+              <TextInput
+                placeholder="Име"
+                style={styles.input}
+                value={name}
+                onChangeText={setName}
+                autoCapitalize="words"
+                keyboardType="default"
+              />
+              <TextInput
+                placeholder="Email"
+                style={styles.input}
+                value={email}
+                onChangeText={setEmail}
+                keyboardType="email-address"
+                autoCapitalize="none"
+              />
+              <TextInput
+                placeholder="Телефон"
+                style={styles.input}
+                value={phone}
+                onChangeText={setPhone}
+                keyboardType="phone-pad"
+              />
+              <Button title="Регистрирай се" onPress={handleRegister} />
+              <Button title="Затвори" onPress={() => setModalVisible(false)} color="red" />
+            </ScrollView>
+          </View>
+        </View>
+      </Modal>
     </KeyboardAvoidingView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
+  container: { flex: 1 },
+  header: {
+    position: 'absolute',
+    top: Platform.OS === 'ios' ? 50 : 20,
+    right: 15,
+    zIndex: 20,
   },
-  registerContainer: {
-    flexGrow: 1,
-    justifyContent: 'center',
-    padding: 20,
-    backgroundColor: '#f0f4f8',
+  loginButton: {
+    backgroundColor: '#2563eb',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 20,
   },
-  title: {
-    fontSize: 28,
-    fontWeight: '700',
-    marginBottom: 24,
-    textAlign: 'center',
-    color: '#2c3e50',
+  loginButtonText: {
+    color: 'white',
+    fontWeight: '600',
   },
-  input: {
-    height: 50,
-    borderColor: '#ddd',
-    borderWidth: 1,
-    borderRadius: 8,
-    paddingHorizontal: 16,
-    marginBottom: 16,
-    backgroundColor: 'white',
-    fontSize: 16,
+  logoutButton: {
+    backgroundColor: '#ef4444',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 20,
+  },
+  logoutButtonText: {
+    color: 'white',
+    fontWeight: '600',
   },
   profileContainer: {
     padding: 10,
     backgroundColor: '#dbeafe',
+    marginTop: Platform.OS === 'ios' ? 90 : 70,
   },
   welcomeText: {
     fontSize: 20,
@@ -271,7 +292,7 @@ const styles = StyleSheet.create({
   },
   searchContainer: {
     position: 'absolute',
-    top: Platform.OS === 'ios' ? 60 : 30,
+    top: Platform.OS === 'ios' ? 130 : 110,
     left: 10,
     right: 10,
     flexDirection: 'row',
@@ -287,11 +308,43 @@ const styles = StyleSheet.create({
     shadowRadius: 4,
     elevation: 5,
   },
-  map: {
+  input: {
     flex: 1,
+    height: 40,
+    borderColor: '#ddd',
+    borderWidth: 1,
+    borderRadius: 25,
+    paddingHorizontal: 16,
+    backgroundColor: 'white',
+    fontSize: 16,
+    marginRight: 8,
   },
+  map: { flex: 1 },
   startButtonContainer: {
     padding: 10,
     backgroundColor: 'white',
   },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0,0,0,0.5)',
+    justifyContent: 'center',
+    padding: 20,
+  },
+  modalContent: {
+    backgroundColor: 'white',
+    borderRadius: 12,
+    padding: 20,
+  },
+  registerContainer: {
+    flexGrow: 1,
+    justifyContent: 'center',
+  },
+  title: {
+    fontSize: 28,
+    fontWeight: '700',
+    marginBottom: 24,
+    textAlign: 'center',
+    color: '#2c3e50',
+  },
 });
+
